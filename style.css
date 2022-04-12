@@ -24,7 +24,7 @@ body {
 }
 
 .container {
-  max-width: 325px;
+  max-width: 320px;
   margin: 0 auto;
   padding: 20px;
 }
@@ -47,11 +47,11 @@ body {
 .text h2 {
   color: var(--DarkBlue);
   padding: 10px;
-  font-weight: 700;
+  font-weight: 600;
 }
 .text p {
   color: var(--GrayishBlue);
   font-weight: 400;
   padding: 10px 20px;
-  margin-bottom: 10px;
+  margin-bottom: 15px;
 }
