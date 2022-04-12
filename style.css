@@ -53,4 +53,5 @@ body {
   color: var(--GrayishBlue);
   font-weight: 400;
   padding: 10px 20px;
+  margin-bottom: 10px;
 }
